@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      auto-index-creation: true
+      database: journaldb
+  main:
+    allow-circular-references: true
